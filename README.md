@@ -8,7 +8,7 @@
 
 - [Deno JavaScript runtime](https://deno.land/#installation)
 - Join the next-gen Slack platform beta
-- Approval for create Slack-hoster apps using new Platform APIs by workspace admin
+- Approval for create Slack-hosted apps using new Platform APIs by workspace admin
   - Read and agree [the Slack Platform Beta Service Terms](https://slack.com/intl/en-us/terms-of-service/platform-beta)
 - [Slack CLI](https://api.slack.com/future/tools/cli)
 
